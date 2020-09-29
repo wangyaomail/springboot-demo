@@ -1,4 +1,8 @@
 # springboot-demo
+
+### note
+- this repo is deprecated. replaced by https://github.com/wangyaomail/a-whole
+
 ### used for
 - springboot project demo
 - my java lecture
